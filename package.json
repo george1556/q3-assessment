@@ -1,0 +1,20 @@
+{
+  "name": "q3-assessment",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "debug": "^3.1.0",
+    "ejs": "^2.5.7",
+    "express": "^4.17.1",
+    "knex": "^0.13.0",
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.2",
+    "pg": "^7.15.1"
+  }
+}
